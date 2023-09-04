@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 
 # Transifex Native
-Transifex Native:- The cloud-based approach to application localization A file-less alternative to internationalize
+Transifex Native:- The cloud-based approach to application localization or a file-less alternative to internationalize
 and localize the Angular app.
 
 
